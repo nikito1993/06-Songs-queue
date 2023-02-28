@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Song Queue", "Song Queue.csproj", "{93F2DCE2-F093-41BC-9B4A-5C6E775ECA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F2DCE2-F093-41BC-9B4A-5C6E775ECA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F2DCE2-F093-41BC-9B4A-5C6E775ECA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F2DCE2-F093-41BC-9B4A-5C6E775ECA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F2DCE2-F093-41BC-9B4A-5C6E775ECA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F012CCA8-8D51-415C-A849-9AFD29C01789}
+	EndGlobalSection
+EndGlobal
